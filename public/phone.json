@@ -1,0 +1,92 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro",
+    "color": "Pacific Blue",
+    "storage": "256GB",
+    "price": 1099.0,
+    "release_date": "2020-10-23",
+    "image": "https://example.com/apple_image.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra",
+    "color": "Phantom Black",
+    "storage": "512GB",
+    "price": 1199.99,
+    "release_date": "2021-01-29",
+    "image": "https://example.com/samsung_image.jpg"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 5",
+    "color": "Just Black",
+    "storage": "128GB",
+    "price": 699.0,
+    "release_date": "2020-10-15",
+    "image": "https://example.com/google_image.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "8 Pro",
+    "color": "Glacial Green",
+    "storage": "256GB",
+    "price": 899.0,
+    "release_date": "2020-04-21",
+    "image": "https://example.com/oneplus_image.jpg"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "color": "Midnight Gray",
+    "storage": "256GB",
+    "price": 749.0,
+    "release_date": "2021-02-25",
+    "image": "https://example.com/xiaomi_image.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "color": "Silver Frost",
+    "storage": "256GB",
+    "price": 999.0,
+    "release_date": "2020-04-07",
+    "image": "https://example.com/huawei_image.jpg"
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 II",
+    "color": "Black",
+    "storage": "256GB",
+    "price": 1199.99,
+    "release_date": "2020-05-22",
+    "image": "https://example.com/sony_image.jpg"
+  },
+  {
+    "brand": "LG",
+    "model": "Velvet",
+    "color": "Aurora Gray",
+    "storage": "128GB",
+    "price": 599.99,
+    "release_date": "2020-07-22",
+    "image": "https://example.com/lg_image.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge+",
+    "color": "Thunder Grey",
+    "storage": "256GB",
+    "price": 999.99,
+    "release_date": "2020-05-14",
+    "image": "https://example.com/motorola_image.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "model": "8.3 5G",
+    "color": "Polar Night",
+    "storage": "128GB",
+    "price": 699.0,
+    "release_date": "2020-09-30",
+    "image": "https://example.com/nokia_image.jpg"
+  }
+]
